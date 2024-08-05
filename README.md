@@ -17,10 +17,10 @@ You need to download pre trained weights and place them in the folder correspond
 
 | Dataset | Checkpoint|
 |----------|----------|
-| Replica| [Download](https://drive.google.com/drive/folders/1HnX8Lq2Bu87eObwdoSiR2zApH22Fa8d9?usp=drive_link)|
-| Matterport3D| [Download](https://drive.google.com/drive/folders/1r2f2lSBoKKkAHAcXASdFTWUsaMKof0vc?usp=drive_link) |
-|Batavision v1|[Download](https://drive.google.com/drive/folders/13vDIFtQLYMKdylaXyLZS1iaswQz8If1U?usp=drive_link)|
-|Batavision v2|[Download](https://drive.google.com/drive/folders/1F9fAdYjKNhx5PnRS7cOP8iNSIh2WeRBN?usp=drive_link)|
+| Replica| [Download](https://github.com/anyone-see/DA-Net/releases/tag/v1.Replica)|
+| Matterport3D| [Download](https://github.com/anyone-see/DA-Net/releases/tag/v1.Matterport3D) |
+|Batavision v1|[Download](https://github.com/anyone-see/DA-Net/releases/tag/v1.BV1)|
+|Batavision v2|[Download](https://github.com/anyone-see/DA-Net/releases/tag/v1.BV2)|
 
 
 # Build Environment
