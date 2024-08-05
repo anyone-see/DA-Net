@@ -1,6 +1,6 @@
 # Enhanced Multimodal Depth Estimation via Dynamic Weighted Audio-Visual Fusion and Adaptive Bins
 
-This repository contains snippets of test code related to [AD-UNet] that are used to demonstrate and validate the methods mentioned in the paper. To protect the integrity of the project and sensitive information, we have not released the full research code.We provide the test code of the model to verify the accuracy of the model
+This repository contains snippets of test code related to [DA-UNet] that are used to demonstrate and validate the methods mentioned in the paper. To protect the integrity of the project and sensitive information, we have not released the full research code.We provide the test code of the model to verify the accuracy of the model
 
 # Dataset
 ## Simulated Datasets
@@ -32,6 +32,8 @@ conda env create -f env.yaml
 # Evaluation
 
 ```
-pip install requirements.txt -r
-python test.py
+python test.py bv1
+python test.py bv2
+python test.py replica
+python test.py mp3d
 ```
