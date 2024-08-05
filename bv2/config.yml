@@ -1,0 +1,49 @@
+audio_normalization: false
+audio_resize: false
+audio_shape: &id001
+- 2
+- 257
+- 487
+batch_size: 32
+beta1: 0.9
+bv1_dataset_path: /home/public/BatvisionV1
+bv2_dataset_path: /home/public/BatvisionV2
+dataset: BV2
+decay_factor: 0.94
+device: cuda
+display_freq: 30000
+epochs: 100
+expr_dir: bv2
+input_size: 256
+learning_rate_decrease_itr: 15
+loss: silog_loss
+lr: 0.0001
+max_depth: 30.0
+model:
+  audio_shape: *id001
+  bins_channels: 64
+  bins_drop: 0.5
+  decoder_channels:
+  - 1024
+  - 512
+  - 256
+  - 128
+  fusion_num_blocks: 1
+  fusion_num_heads: 16
+  fusion_type: DWAF
+  input_size: 256
+  max_depth: 30.0
+  modal_fusion_att_drop: 0.5
+  modal_fusion_ffn_drop: 0.5
+  name: BaseLine_Audio_My_Fusion
+  pretrained: /home/malong/project/pretrain_model/swin_tiny_patch4_window7_224.pth
+  visual_encoder_type: tiny
+modo: train
+mp3d_dataset_path: /home/public/mp3d-dataset
+num_workers: 8
+optimizer: adam
+replica_dataset_path: /home/public/replica-dataset
+run_start_time: 24-07-21  13:39:09
+validation_freq: 30000
+variance_focus: 0.85
+weight_decay: 0.0001
