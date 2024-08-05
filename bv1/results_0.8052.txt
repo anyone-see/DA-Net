@@ -1,5 +1,5 @@
 ===========================================================================
-BV1	BaseLine_Audio_My_Fusion	silog_loss	adam	5e-05	64	20
+BV1	BaseLine_Audio_My_Fusion	silog_loss	adam	5e-05	64	10
 Loss: 2.913, RMSE: 0.805
 ABS_REL:0.198, LOG10:0.085, MAE:0.448
 DELTA1:0.735, DELTA2:0.912, DELTA3:0.959

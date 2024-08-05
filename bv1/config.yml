@@ -36,7 +36,6 @@ model:
   modal_fusion_att_drop: 0.5
   modal_fusion_ffn_drop: 0.5
   name: BaseLine_Audio_My_Fusion
-  pretrained: /home/malong/project/pretrain_model/swin_tiny_patch4_window7_224.pth
   visual_encoder_type: tiny
 modo: train
 mp3d_dataset_path: /home/public/mp3d-dataset
