@@ -13,14 +13,14 @@ Batvision1 and Batvision2 can be obatined from [here](https://cloud.minesparis.p
 You need to modify the dataset path in each `config.yml` folder.
 # Pre-trained Models
 
-You need to download pre trained weights and place them in the folder corresponding to the dataset name.
+You need to download pre trained weights and place them in the folder corresponding to the dataset name. [All Download](https://drive.google.com/drive/folders/1CVjyjuTAktMcgaYjFf-rCQFLNu7D-dUa?usp=drive_link)
 
 | Dataset | Checkpoint|
 |----------|----------|
-| Replica| [Download](https://github.com/anyone-see/DA-Net/releases/tag/v1.Replica)|
-| Matterport3D| [Download](https://github.com/anyone-see/DA-Net/releases/tag/v1.Matterport3D) |
-|Batavision v1|[Download](https://github.com/anyone-see/DA-Net/releases/tag/v1.BV1)|
-|Batavision v2|[Download](https://github.com/anyone-see/DA-Net/releases/tag/v1.BV2)|
+| Replica| [Download](https://drive.google.com/drive/folders/1Y8OXga9ZHaUrU8lg9iYzUgLHze4s1xV3?usp=drive_link)|
+| Matterport3D| [Download](https://drive.google.com/drive/folders/1PFVSYVh-x0ZuFMRbqqoapmK-LAlGyDCz?usp=drive_link)|
+|Batavision v1|[Download](https://drive.google.com/drive/folders/1Tj2jy3OZQP3rtxgzArieG9zElyKMDZss?usp=drive_link)|
+|Batavision v2|[Download](https://drive.google.com/drive/folders/12yCzdMvEvvU1mG3f3kzzk_N9FfRe1VF_?usp=drive_link)|
 
 
 # Build Environment
