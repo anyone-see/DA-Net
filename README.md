@@ -1,6 +1,6 @@
 # Enhanced Multimodal Depth Estimation via Dynamic Weighted Audio-Visual Fusion and Adaptive Bins
 
-This repository contains snippets of test code for `DA-Net` used to demonstrate and validate the methods described in the paper. While the full research code is not released to protect project integrity and sensitive information, we provide this test code to verify the model's accuracy. We guarantee to publish the complete training code after the paper is accepted.
+This repository contains snippets of test code for `DA-Net` used to demonstrate and validate the methods described in the paper. While the full research code is not released to protect project integrity and sensitive information, we provide this test code to verify the model's accuracy. We guarantee to publish the complete code after the paper is accepted.
 
 # Dataset
 ## Simulated Datasets
